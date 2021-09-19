@@ -9,4 +9,4 @@ The aim of the project is to design an architecture system to integrate and visu
 | 3. Data Storage  | Content Cell  |
 | 4. Data Processing  | Content Cell  |
 | 5. Data Visualisation   | explained data |
-
+| 6. Data Visualisation   | explained data |
