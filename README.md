@@ -5,7 +5,7 @@ The aim of the project is to design an architecture system to integrate and visu
 |  Steps        | Descriptions  |
 | ------------- | ------------- |
 | 1. Data Collection | Multiple Types Of Data Sources(APIs, CSVs, JSON)|
-| 2. Data Ingestion & ETL  | (extract, transform, load) - Pipelines |
+| 2. Data Ingestion | Remove Unwated Data & Duplication|
 | 3. Data Storage  | Content Cell  |
 | 4. Data Processing  | Content Cell  |
 | 5. Data Visualisation   | explained data |
