@@ -2,6 +2,11 @@
 
 The aim of the project is to design an architecture system to integrate and visualise information in real-time on a predictive monitoring system to support transport strategic decisions including scheduling road works, passenger’s time and stops usage!
 
+#Introduction
+
+A novel deep learning architecture to capture uncommon traffic situations to tackle traffic constraints on the traffic intensity during peak versus off peak hours based on proposed traffic closures. 
+
+
 |  Steps        | Descriptions  |
 | ------------- | ------------- |
 | 1. Data Collection | Multiple Types Of Data Sources(APIs, CSVs, JSON)|
