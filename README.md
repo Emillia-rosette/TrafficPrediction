@@ -1,4 +1,4 @@
-# Using Artificial Intelligence Techniques TO Predict Road Traffic Impact For Better Roadwork Planning and Coordination
+# Using Artificial Intelligence Techniques To Predict Road Traffic Impact For Better Roadwork Planning and Coordination
 
 The aim of the project is to design an architecture system to integrate and visualise information in real-time on a predictive monitoring system to support transport strategic decisions including scheduling road works, passenger’s time and stops usage!
 
