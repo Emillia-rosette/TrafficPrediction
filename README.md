@@ -1,10 +1,11 @@
 # Optimizing Traffic Prediction and Roadwork Impact Assessment using Neural Networks for Effective Planning Coordination
-# The aims of the project:
+
+**The aims of the project:**
 
 1. Develop and implement a neural network-based traffic prediction model that accurately forecasts traffic conditions in urban areas such as London, considering diverse factors such as historical traffic data, weather conditions, and events.
 2.	Explore and optimize the application of Graph Neural Networks (GNNs) to model road networks and assess the potential impacts of roadwork on traffic flow, enabling proactive and effective roadwork planning.
 
-# Introduction
+# Research Methodology
 
 
 |  Steps        | Descriptions  |
