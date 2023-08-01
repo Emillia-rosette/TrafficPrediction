@@ -8,10 +8,10 @@
 
 # Research Methodology
 
-|  Steps        | Descriptions  |
-| ------------- | ------------- |
-| 1. Data Collection | Collected historical traffic data, weather conditions, and event data capturing high-resolution traffic flow data, including vehicle count and speed, from traffic sensors and surveillance cameras
-Multiple Types Of Data Sources(APIs, CSVs, JSON)|
+|  Steps        | Descriptions  |  Technology Used / Format        | 
+| ------------- | ------------- |  ------------- | 
+
+| 1. Data Collection | Collected historical traffic data, weather conditions, and event data capturing high-resolution traffic flow data, including vehicle count and speed, from traffic sensors and surveillance cameras | Multiple Types Of Data Sources(APIs, CSVs, JSON)|
 | 2. Data Ingestion | Remove Unwated Data & Duplication|
 | 3. Data Storage  | Content Cell  |
 | 4. Data Processing  | Content Cell  |
