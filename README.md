@@ -1,5 +1,4 @@
-# Optimizing Traffic Prediction and Roadwork Impact Assessment using Neural Networks for Effective Planning Coordination![image](https://github.com/Emillia-rosette/TrafficPrediction/assets/36535655/69fa9495-d71b-44c3-a760-61f062b2f28c)
-
+# Optimizing Traffic Prediction and Roadwork Impact Assessment using Neural Networks for Effective Planning Coordination
 # The aims of the project:
 
 1. Develop and implement a neural network-based traffic prediction model that accurately forecasts traffic conditions in urban areas such as London, considering diverse factors such as historical traffic data, weather conditions, and events.
