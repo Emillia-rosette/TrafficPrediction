@@ -1,15 +1,19 @@
-# Using Artificial Intelligence Techniques To Predict Road Traffic Impact For Better Roadwork Planning and Coordination
+# Optimizing Traffic Prediction and Roadwork Impact Assessment using Neural Networks for Effective Planning Coordination![image](https://github.com/Emillia-rosette/TrafficPrediction/assets/36535655/69fa9495-d71b-44c3-a760-61f062b2f28c)
 
-The aim of the project is to design an architecture system to integrate and visualise information in real-time on a predictive monitoring system to support transport strategic decisions including scheduling road works, passenger’s time and stops usage!
+# The aims of the project:
+
+1. Develop and implement a neural network-based traffic prediction model that accurately forecasts traffic conditions in urban areas such as London, considering diverse factors such as historical traffic data, weather conditions, and events.
+2.	Explore and optimize the application of Graph Neural Networks (GNNs) to model road networks and assess the potential impacts of roadwork on traffic flow, enabling proactive and effective roadwork planning.
+![image](https://github.com/Emillia-rosette/TrafficPrediction/assets/36535655/42431b4e-a7e0-495f-8781-7943c4ed6fc6)
+
 
 # Introduction
-
-A novel deep learning architecture to capture uncommon traffic situations to tackle traffic constraints on the traffic intensity during peak versus off peak hours based on proposed traffic closures. 
 
 
 |  Steps        | Descriptions  |
 | ------------- | ------------- |
-| 1. Data Collection | Multiple Types Of Data Sources(APIs, CSVs, JSON)|
+| 1. Data Collection | Collected historical traffic data, weather conditions, and event data capturing high-resolution traffic flow data, including vehicle count and speed, from traffic sensors and surveillance cameras![Uploading image.png…]()
+Multiple Types Of Data Sources(APIs, CSVs, JSON)|
 | 2. Data Ingestion | Remove Unwated Data & Duplication|
 | 3. Data Storage  | Content Cell  |
 | 4. Data Processing  | Content Cell  |
