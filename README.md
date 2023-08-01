@@ -3,8 +3,6 @@
 
 1. Develop and implement a neural network-based traffic prediction model that accurately forecasts traffic conditions in urban areas such as London, considering diverse factors such as historical traffic data, weather conditions, and events.
 2.	Explore and optimize the application of Graph Neural Networks (GNNs) to model road networks and assess the potential impacts of roadwork on traffic flow, enabling proactive and effective roadwork planning.
-![image](https://github.com/Emillia-rosette/TrafficPrediction/assets/36535655/42431b4e-a7e0-495f-8781-7943c4ed6fc6)
-
 
 # Introduction
 
