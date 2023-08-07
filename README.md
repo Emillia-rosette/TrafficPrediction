@@ -31,17 +31,3 @@ The code uses Pandas for data manipulation and provides the following functional
 
 ```bash
 python script_name.py
-
-
-# Research Methodology
-
-| Steps | Description |
-| --- | --- |
-| 1. Data Collection | collected historical traffic data, weather conditions, and event data capturing high-resolution traffic flow data, including vehicle count and speed, from traffic sensors and surveillance cameras |
-| 2. Data Ingestion| Show file differences that haven't been staged |
-| 3. Data Preprocessing| Show file differences that haven't been staged |
-| 4. Feature Engineering| Show file differences that haven't been staged |
-| 5. Data Splitting| Show file differences that haven't been staged |
-| 6. Data Splitting| Show file differences that haven't been staged |
-| 7. Neural Network Architecture | Show file differences that haven't been staged |
-| 7. Model Training | Show file differences that haven't been staged |
